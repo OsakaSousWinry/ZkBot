@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Jperds pas mon temps pour des plavs qui rapport nada", // required by Discord API, not shown in the client
-        state: "Jperds pas mon temps pour des plavs qui rapport nada",     // this is what people actually see
-        type: 2,               // Custom
+        name: "T'es pas UHQ bro", // required by Discord API, not shown in the client
+        state: "T'es pas UHQ bro",     // this is what people actually see
+        type: 1,               // Custom
       },
     ],
   },
