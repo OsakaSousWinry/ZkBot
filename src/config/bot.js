@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Ultra Hight Branlette", // required by Discord API, not shown in the client
-        state: "T'es pas UHB bro",     // this is what people actually see
+        name: "T'es pas UHB bro", // required by Discord API, not shown in the client
+        state: "Ultra Hight Branlette",     // this is what people actually see
         type: 1,               // Custom
       },
     ],
