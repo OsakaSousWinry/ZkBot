@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "", // required by Discord API, not shown in the client
+        name: "Jperds pas mon temps pour des plavs qui rapport nada", // required by Discord API, not shown in the client
         state: "Jperds pas mon temps pour des plavs qui rapport nada",     // this is what people actually see
         type: 2,               // Custom
       },
@@ -93,7 +93,7 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#000000",
+      primary: "#D3D3D3",
       secondary: "#FFFFFF",
 
       // Standard status colors for success/error/warning/info messages.
